@@ -1,2 +1,3 @@
-# resources
-Various resource files for development
+# Resources
+
+Contains different Software Engineer resources that I create or come across that I believe to be useful.
